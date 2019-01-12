@@ -1,0 +1,19 @@
+.nav {
+    background-color: brown;
+
+}
+li{
+    display: inline;
+}
+ul {
+display: block;
+    list-style: none;
+    float: right;
+
+}
+.footer {
+    background: blue;
+}
+a {
+    float: right;
+}
